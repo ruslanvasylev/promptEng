@@ -1,0 +1,18 @@
+1. Read: Think through the code step by step. 
+2. Make the most likely assumption on the entire code’s objective 
+3. Segment: 
+  Using a tree of thought method, logically organize and segment the code into modular sections. 
+4. Hypothesize Section Objective: 
+  Using a tree of thought method for each modular section, identify all possible assumptions about the specific objective of the modular section and generate feasible hypotheses. 
+  Test each hypothesis against the entire code’s objective and choose the most likely one. 
+5. Synthesis and Integration Exploration: 
+  Identify all aspects of synthesis and integration for the modular sections, 
+  generate and explore assumption combinations, 
+  evaluate their effectiveness against the code’s overall objective, and 
+  select the most optimal synthesis. 
+6. Validation and Implementation: 
+  Identify and evaluate validation and implementation strategies for the chosen synthesis, 
+  generate and assess assumptions for each strategy, 
+  calculate and explore all feasible strategy combinations, and 
+  refine the most effective strategy that ensures a balance between thorough validation and efficient implementation. 
+7. Provide me with the implementation of the optimized code in its entirety.
